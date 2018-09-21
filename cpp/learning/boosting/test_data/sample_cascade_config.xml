@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="10">
+<param class_id="0" tracking_level="0" version="0">
+	<f_target>1.0000000000000001e-05</f_target>
+	<d_min>0.995</d_min>
+	<max_stages>10</max_stages>
+	<adaboost_param class_id="1" tracking_level="0" version="0">
+		<count>3</count>
+		<item_version>0</item_version>
+		<item class_id="2" tracking_level="0" version="0">
+			<first>0</first>
+			<second class_id="3" tracking_level="0" version="0">
+				<rounds>4</rounds>
+				<sampled_count>960</sampled_count>
+				<solver_type>L1R_LR</solver_type>
+				<solver_cost>10.0</solver_cost>
+			</second>
+		</item>
+		<item>
+			<first>3</first>
+			<second>
+				<rounds>32</rounds>
+				<sampled_count>960</sampled_count>
+				<solver_type>L1R_LR</solver_type>
+				<solver_cost>10.0</solver_cost>
+			</second>
+		</item>
+		<item>
+			<first>6</first>
+			<second>
+				<rounds>128</rounds>
+				<sampled_count>960</sampled_count>
+				<solver_type>L1R_LR</solver_type>
+				<solver_cost>10.0</solver_cost>
+			</second>
+		</item>
+	</adaboost_param>
+	<max_pos_count>60000</max_pos_count>
+	<pos_index_file>/srv/glusterfs/gandrada/training_data/frontal-faces-and-flip-and-rot.txt</pos_index_file>
+	<neg_index_files class_id="4" tracking_level="0" version="0">
+		<count>1</count>
+		<item_version>0</item_version>
+		<item>/srv/glusterfs/gandrada/training_data/no-faces-large.txt</item>
+	</neg_index_files>
+</param>
+</boost_serialization>
+

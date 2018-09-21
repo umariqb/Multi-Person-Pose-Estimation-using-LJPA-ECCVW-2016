@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++0x    CMakeFiles/test-graph-cut-vertices.dir/src/andres/graph/unit-test/cut-vertices.cxx.o  -o test-graph-cut-vertices -rdynamic 

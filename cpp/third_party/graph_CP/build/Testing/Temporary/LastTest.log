@@ -1,0 +1,296 @@
+Start testing: Feb 02 18:01 CET
+----------------------------------------------------------
+1/19 Testing: test-graph-graph
+1/19 Test: test-graph-graph
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-graph"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-graph" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-graph" end time: Feb 02 18:01 CET
+"test-graph-graph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/19 Testing: test-graph-digraph
+2/19 Test: test-graph-digraph
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-digraph"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-digraph" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+4
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-digraph" end time: Feb 02 18:01 CET
+"test-graph-digraph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/19 Testing: test-graph-shortest-paths
+3/19 Test: test-graph-shortest-paths
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-shortest-paths"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-shortest-paths" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-shortest-paths" end time: Feb 02 18:01 CET
+"test-graph-shortest-paths" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/19 Testing: test-graph-paths
+4/19 Test: test-graph-paths
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-paths"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-paths" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-paths" end time: Feb 02 18:01 CET
+"test-graph-paths" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/19 Testing: test-graph-components
+5/19 Test: test-graph-components
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-components"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-components" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-components" end time: Feb 02 18:01 CET
+"test-graph-components" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/19 Testing: test-graph-max-flow
+6/19 Test: test-graph-max-flow
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-max-flow"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-max-flow" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-max-flow" end time: Feb 02 18:01 CET
+"test-graph-max-flow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/19 Testing: test-graph-complete-graph
+7/19 Test: test-graph-complete-graph
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-complete-graph"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-complete-graph" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-complete-graph" end time: Feb 02 18:01 CET
+"test-graph-complete-graph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/19 Testing: test-graph-grid-graph
+8/19 Test: test-graph-grid-graph
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-grid-graph"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-grid-graph" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.70 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-grid-graph" end time: Feb 02 18:01 CET
+"test-graph-grid-graph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/19 Testing: test-graph-dfs
+9/19 Test: test-graph-dfs
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-dfs"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-dfs" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-dfs" end time: Feb 02 18:01 CET
+"test-graph-dfs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/19 Testing: test-graph-bfs
+10/19 Test: test-graph-bfs
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-bfs"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-bfs" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-bfs" end time: Feb 02 18:01 CET
+"test-graph-bfs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/19 Testing: test-graph-cut-vertices
+11/19 Test: test-graph-cut-vertices
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-cut-vertices"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-cut-vertices" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-cut-vertices" end time: Feb 02 18:01 CET
+"test-graph-cut-vertices" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/19 Testing: test-graph-bridges
+12/19 Test: test-graph-bridges
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-bridges"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-bridges" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-bridges" end time: Feb 02 18:01 CET
+"test-graph-bridges" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/19 Testing: test-graph-minimum-spanning-tree
+13/19 Test: test-graph-minimum-spanning-tree
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-minimum-spanning-tree"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-minimum-spanning-tree" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-minimum-spanning-tree" end time: Feb 02 18:01 CET
+"test-graph-minimum-spanning-tree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/19 Testing: test-graph-lifting
+14/19 Test: test-graph-lifting
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-lifting"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-lifting" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-lifting" end time: Feb 02 18:01 CET
+"test-graph-lifting" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/19 Testing: test-graph-multicut-lifted-kl
+15/19 Test: test-graph-multicut-lifted-kl
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-multicut-lifted-kl"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-multicut-lifted-kl" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+Starting energy: 28
+Iter   True decrease Total decrease   Pair updates       New sets  Num. of sets
+   1              21             21             21              0             2
+   2               8              8              8              0             2
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-multicut-lifted-kl" end time: Feb 02 18:01 CET
+"test-graph-multicut-lifted-kl" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/19 Testing: test-graph-multicut-lifted-greedy-additive
+16/19 Test: test-graph-multicut-lifted-greedy-additive
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-multicut-lifted-greedy-additive"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-multicut-lifted-greedy-additive" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-multicut-lifted-greedy-additive" end time: Feb 02 18:01 CET
+"test-graph-multicut-lifted-greedy-additive" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/19 Testing: test-graph-multicut-kernighan-lin
+17/19 Test: test-graph-multicut-kernighan-lin
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-multicut-kernighan-lin"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-multicut-kernighan-lin" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+Starting energy: 0
+Iter  Total decrease   Pair updates       New sets  Num. of sets
+   1              35              0             35             2
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-multicut-kernighan-lin" end time: Feb 02 18:01 CET
+"test-graph-multicut-kernighan-lin" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/19 Testing: test-graph-multicut-greedy-additive
+18/19 Test: test-graph-multicut-greedy-additive
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-graph-multicut-greedy-additive"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-graph-multicut-greedy-additive" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test-graph-multicut-greedy-additive" end time: Feb 02 18:01 CET
+"test-graph-multicut-greedy-additive" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/19 Testing: test-hdf5
+19/19 Test: test-hdf5
+Command: "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build/test-hdf5"
+Directory: /home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/build
+"test-hdf5" start time: Feb 02 18:01 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"test-hdf5" end time: Feb 02 18:01 CET
+"test-hdf5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 02 18:01 CET

@@ -1,0 +1,21 @@
+
+package awesomeness.learning.svm;
+
+
+message LibLinearSvmParam {
+
+  optional SolverType solver_type = 1 [default = L2R_LR];
+  optional double C    = 2 [default = 1];
+  optional double eps  = 3 [default = 0.1];
+  
+  enum SolverType {
+    L2R_LR              = 0;
+    L2R_L2LOSS_SVC_DUAL = 1;
+    L2R_L2LOSS_SVC      = 2;
+    L2R_L1LOSS_SVC_DUAL = 3;
+    MCSVM_CS            = 4;
+    L1R_L2LOSS_SVC      = 5;
+    L1R_LR              = 6;
+    L2R_LR_DUAL         = 7;
+  }
+}

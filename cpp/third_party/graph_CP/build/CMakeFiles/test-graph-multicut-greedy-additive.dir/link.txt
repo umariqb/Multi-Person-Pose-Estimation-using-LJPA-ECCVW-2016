@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++0x    CMakeFiles/test-graph-multicut-greedy-additive.dir/src/andres/graph/unit-test/multicut/greedy-additive.cxx.o  -o test-graph-multicut-greedy-additive -rdynamic 

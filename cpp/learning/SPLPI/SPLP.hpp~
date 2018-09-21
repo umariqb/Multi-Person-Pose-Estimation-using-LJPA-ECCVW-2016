@@ -1,0 +1,22 @@
+#ifndef SPLP_HH
+#define SPLP_HH
+#include "gurobi_c++.h"
+
+
+namespace learning
+{
+
+namespace optimization
+{
+
+class SPLP
+{
+  public:
+    SPLP();
+    virtual ~SPLP();
+  protected:
+  private:
+};
+}
+}
+#endif // SPLP_HH

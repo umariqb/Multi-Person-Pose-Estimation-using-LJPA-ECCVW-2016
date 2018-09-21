@@ -1,0 +1,49 @@
+// configuration file for eval_pose_mpii_splp
+
+// General params
+n_clusters 		= 1;
+dataset_name 	= "mpii"
+save			= true;
+cache			= "./cache"
+
+// reference person length
+ref_len 		= 360;
+
+// patch size ratio
+patch_ratio		= 0.4;
+
+// Body Pose Type
+pose_type 		= 14;
+
+// Name of the experiments
+experiment_name 	= "mpii_first_test"
+
+//Train file 
+train_file 		= "/media/Data/human_pose_literature/Datasets/mpii_human_pose_v1/image_index_train_rescaled_validation.txt";
+train_file_multi 	= "/media/Data/human_pose_literature/Datasets/mpii_human_pose_v1/image_index_train_rescaled_multiperson_val.txt";
+
+// Test File
+test_file 		= "/media/Data/human_pose_literature/Datasets/mpii_human_pose_v1/image_index_test_rescaled_validation.txt";
+test_file_multi 	= "/media/Data/human_pose_literature/Datasets/mpii_human_pose_v1/image_index_test_rescaled_multiperson_val.txt";
+
+// Results dir
+results_dir 	= "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/results";
+
+use_flipped_anns 	= false;
+
+cnn_params =
+{
+  	pretrained_net_proto 		= "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/DeepLab/mpii/models/deeplab_largeFOV_noflip/train_0.0001_iter_120000_0.1.caffemodel";
+	feature_extraction_proto 	= "/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/DeepLab/mpii/config/deeplab_largeFOV_noflip/test_train.prototxt";
+	mean_pixel 				= ([104.008, 116.669, 122.675]);
+	mean_file 				= ""
+	use_gpu 				= true;
+	device_id 				= 0;
+};
+
+splp_params = 
+{
+	detect_single_person = false;
+	num_nbest = 200;
+};
+

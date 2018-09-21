@@ -1,0 +1,50 @@
+// configuration file for Multi-Person Pose Estimation using Local Joint-to-Person Associations
+
+// General params
+dataset_name 	  = "MPII-Multi-Person"
+save		  = true;
+cache		  = "./cache"
+
+// reference person length
+ref_len 	  = 200;
+
+// patch size ratio
+patch_ratio	  = 0.25;
+
+// Body Pose Type
+pose_type 	  = 14;
+
+// Name of the experiments
+experiment_name   = "MPII-TEST"
+
+//Train file 
+train_file_multi = "./data/MPII-multiperson-train.txt";
+
+// Test File
+test_file_multi 	  = "./data/MPII-multiperson-test.txt";
+
+// Results dir
+results_dir 	  = "./results";
+
+// Pre-computed Bounding boxes
+bbox_file         = "./data/bbox_mpii_test.txt";
+
+use_flipped_anns  = false;
+n_part_proposals = 5;
+part_proposals_thresh = 0.2;
+
+cnn_params =
+{
+  	pretrained_net_proto 		= "./data/models/_trained_MPI/pose_iter_985000_addLEEDS.caffemodel";
+	feature_extraction_proto 	= "./data/models/_trained_MPI/pose_deploy_centerMap.prototxt";
+	mean_pixel 			= ([0.5, 0.5, 0.5]);
+	mean_file 			= ""
+	use_gpu 			= true;
+	device_id 			= 0;
+};
+
+splp_params = 
+{
+	detect_single_person = false;
+};
+

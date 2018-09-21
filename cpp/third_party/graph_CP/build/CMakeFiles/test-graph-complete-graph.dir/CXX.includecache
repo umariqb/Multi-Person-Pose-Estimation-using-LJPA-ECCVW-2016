@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/andres/graph/adjacency.hxx
+
+../include/andres/graph/complete-graph.hxx
+cassert
+-
+cstddef
+-
+cmath
+-
+iterator
+-
+adjacency.hxx
+../include/andres/graph/adjacency.hxx
+visitor.hxx
+../include/andres/graph/visitor.hxx
+
+../include/andres/graph/visitor.hxx
+cstddef
+-
+iostream
+-
+
+/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/src/andres/graph/unit-test/graph-complete.cxx
+iterator
+-
+algorithm
+-
+stdexcept
+-
+iterator
+-
+type_traits
+-
+andres/graph/complete-graph.hxx
+/home/ibal_109/work/2015/Pose_Estimation_Code_v1.5/cpp/third_party/graph/src/andres/graph/unit-test/andres/graph/complete-graph.hxx
+

@@ -1,0 +1,20 @@
+test-graph-graph 1 0.00234509
+test-graph-digraph 1 0.00144601
+test-graph-shortest-paths 1 0.00520992
+test-graph-paths 1 0.00222611
+test-graph-components 1 0.00193787
+test-graph-max-flow 1 0.00195599
+test-graph-complete-graph 1 0.00117517
+test-graph-grid-graph 1 0.70267
+test-graph-dfs 1 0.00139308
+test-graph-bfs 1 0.00149703
+test-graph-cut-vertices 1 0.0011611
+test-graph-bridges 1 0.00111604
+test-graph-minimum-spanning-tree 1 0.0010848
+test-graph-lifting 1 0.217876
+test-graph-multicut-lifted-kl 1 0.00194407
+test-graph-multicut-lifted-greedy-additive 1 0.00112486
+test-graph-multicut-kernighan-lin 1 0.00258017
+test-graph-multicut-greedy-additive 1 0.00170588
+test-hdf5 1 0.117472
+---

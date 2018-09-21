@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++0x    CMakeFiles/test-graph-components.dir/src/andres/graph/unit-test/components.cxx.o  -o test-graph-components -rdynamic 
